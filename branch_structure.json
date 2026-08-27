@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "test/background-check-landlord-verification-coverage"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "test/background-check-landlord-verification-coverage": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "test/background-check-landlord-verification-coverage"
+  ]
+}
